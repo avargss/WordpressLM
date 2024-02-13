@@ -1,5 +1,5 @@
-# WordpressLM
-## Repositorio para el proyecto de Lenguaje de Marcas
+# Proyecto de Lenguaje de Marcas 2º Trimestre.
+### Hecho en Wordpress
 
 Este readme será actualizado con las tareas que tenemos que realizar cada uno.
 Francisco Jose Sanchez Perez .
