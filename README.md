@@ -38,7 +38,7 @@ Alex:
 - Formulario de contacto.
 
 Fran: 
--
+-Organizacion github.
 
 Javi: 
 -
