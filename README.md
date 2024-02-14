@@ -10,6 +10,8 @@ Busqueda de plato con su fotos y sus ingredientes respectivos.
 
 Francisco Javier Pareja Arencon.
 Diseño del logo, ajuste de tamaño.
+Organizacion de ideas en el grupo.
+Mapas.
 
 
 Alejandro Vargas Garran.
@@ -21,7 +23,7 @@ Diseño de la página con las ideas ya comentadas en grupo.
 	
 	Cada página de un color.
 	Temáticas con la comida. Hecho.
-	Mapas con puntos de colores.
+	Mapas con puntos de colores. Hecho
 	Carrusel en la página principal.
 
 —-----------------------------------------------------------------------------------------
@@ -41,4 +43,5 @@ Fran:
 -Organizacion github.
 
 Javi: 
--
+-	
+- 	
