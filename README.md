@@ -21,7 +21,7 @@ Diseño y funcionalidad de la pagina.
 
 Diseño de la página con las ideas ya comentadas en grupo.
 	
-	Cada página de un color.
+	Cada página de un color. No es posible con Elementor.
 	Temáticas con la comida. Hecho.
 	Mapas con puntos de colores. Hecho
 	Carrusel en la página principal.
