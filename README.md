@@ -31,19 +31,21 @@ Diseño de la página con las ideas ya comentadas en grupo.
 —-----------------------------------------------------------------------------------------
 
 
-Tareas por hacer: 
+Tareas completadas. 
 
 Alex: 
 - Encontrar tema compatible con la idea principal - Food Trucks tematicos por paises.
 - Montar la página.
 - Añadir carrusel y elementos que hagan la página más interactiva y user friendly.
 - Añadir una página distinta por cada pais, decorandola con los colores del mismo.
-- Adición de mapas, imagenes y videos para añadir interactividad a la página.
-- Formulario de contacto.
+
 
 Fran: 
--Organizacion github.
+- Organizacion github.
+- Adición imagenes y videos para añadir interactividad a la página.
+- Formulario de contacto.
 
 Javi: 
--	
-- 	
+- Aportación de ideas, diseño de colores.
+- Creación de mapas y logos
+- Ideas sobre las entradas.
